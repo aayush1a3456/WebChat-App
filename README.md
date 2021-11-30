@@ -1,4 +1,4 @@
-# ChatCord App
+# WebChat App
 ## Usage
 ```
 npm install
